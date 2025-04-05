@@ -1,7 +1,18 @@
+# macOS
+.DS_Store
+
+# Python
 __pycache__/
 *.pyc
-.ipynb_checkpoints/
-*.csv
+*.pkl
+venv/
 .env
+
+# Streamlit
 .streamlit/
-*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Local project structure
+data/
